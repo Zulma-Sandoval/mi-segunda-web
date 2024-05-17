@@ -1,0 +1,55 @@
+/* esta es una hoja de estilos, tenemos que poner reglas
+reglas que modifican, cajitas es decir elementos de html 
+
+   regla<> propiedad::-webkit-validation-bubble-arro
+
+en css necesitamos asignar la regla a algo
+
+elemento seleccionado{
+    propiedad:valor;
+}*/
+
+body{
+    background-color: blueviolet;
+}
+
+/*
+selectores
+existen 3 maneras de seleccionar elementos
+nombre:etiquta
+clase
+id
+*/
+
+h3{
+    background-color:white ;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.rojo{
+    background-color: aqua;
+}
+
+.fondo-azul-claro{
+    background-color: rgb(230, 104, 188);
+}
+
+/*selector de Etiqueta*/
+
+img{
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+
+/*Selector clase*/
+
+
+
+#subtitulo{
+    font-size: 34px;
+}
